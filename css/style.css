@@ -1,0 +1,36 @@
+
+body{
+    background-color: #f4f5f6;
+    display: column;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-between;
+    overflow: hidden;
+
+}
+
+
+.center{
+    align-items: center;
+}
+
+.title{
+    margin: 0 10px ;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+
+}
+
+a:hover{
+
+    color: aqua;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+}
